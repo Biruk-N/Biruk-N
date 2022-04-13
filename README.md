@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Biruk 
 
-<!--
-**Biruk-N/Biruk-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a computer science student and developer!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
