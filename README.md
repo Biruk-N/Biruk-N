@@ -26,7 +26,7 @@
 
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](webdevplaylist)
 
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](webdevplaylist)
+[<img align="left" alt="ReactJs" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="padding-right:10px;" />](webdevplaylist)
 
 
 
