@@ -51,7 +51,7 @@
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;" />](web)
 [<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" style="padding-right:10px;" />](web)
 
-[<img align="left" alt="android" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-4.svg" style="padding-right:10px;" />](web)
+[<img align="left" alt="android" width="26px" src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" style="padding-right:10px;" />](web)
 
 
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" style="padding-right:10px;" />](web)
