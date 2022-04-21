@@ -25,7 +25,8 @@
 
 
 
-[<img align="left" alt="Pycharm" width="26px" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" style="padding-right:10px;" />](web)
+[<img align="left" alt="Pycharm" width="26px" src="![image](https://user-images.githubusercontent.com/86155266/164556634-4e54bafc-b4f0-441a-84dd-ff9a81c863c2.png)
+" style="padding-right:10px;" />](web)
 
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](webdevplaylist)
