@@ -1,62 +1,64 @@
-### Hi there 👋, I'm Biruk 
+### Hi there 👋, I'm Biruk Nigussie
 
-## I'm a computer science student and developer!
+## I'm a Software Developer with a passion for building innovative digital solutions!
 
+- 🔭 I’m currently working on **educational platforms and management systems** using React, TypeScript, and Next.js.
+- 🌱 I’m currently learning **Django framework** to expand my backend development skills.
+- 👯 I’m looking to collaborate on **open-source projects** and innovative tech solutions.
+- 🤔 I’m looking for help with **contributing to large-scale open-source projects**.
+- 💬 Ask me about **React, TypeScript, Next.js, or anything related to frontend development**.
+- 📫 How to reach me: **biruk.rcd1912@gmail.com** | [LinkedIn](#) | [Portfolio](#)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love solving complex problems with clean and efficient code!**
 
-- 🔭 I’m currently working on a [recommendation system](website)!
-- 🌱 I’m currently learning Django framework 
-- 👯 I’m looking to collaborate with other developers 
-- 🤔 I’m looking for help with to contribute to Open source projects 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 🛠️ Languages and Tools
 
-### Connect with me:
-[portfolio](website)
-
-### Languages and tools 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](web)
-
-[<img align="left" alt="Webstorm" width="26px" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" style="padding-right:10px;" />](web)
-
-[<img align="left" alt="Intellij" width="26px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" style="padding-right:10px;" />](web)
-
-
-
-[<img align="left" alt="Pycharm" width="26px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" style="padding-right:10px;" />](web)
-
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](webdevplaylist)
-
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](web)
-
-[<img align="left" alt="Pycharm" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />](web)
-
-
-
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](webdevplaylist)
-
-[<img align="left" alt="ReactJs" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="padding-right:10px;" />](web)
-
-
-
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](web)
-
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](web)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](web)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](web)
-
-[<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;" />](web)
-[<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" style="padding-right:10px;" />](web)
-
-[<img align="left" alt="android" width="26px" src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" style="padding-right:10px;" />](web)
-
-
-[<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" style="padding-right:10px;" />](web)
+[<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="padding-right:10px;" />](https://reactjs.org)
+[<img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" />](https://www.typescriptlang.org)
+[<img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="padding-right:10px;" />](https://nextjs.org)
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" style="padding-right:10px;" />](https://graphql.org)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="Redux" width="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="padding-right:10px;" />](https://redux.js.org)
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com)
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org)
+[<img align="left" alt="SQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right:10px;" />](https://www.mysql.com)
+[<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" style="padding-right:10px;" />](https://www.java.com)
+[<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;" />](https://www.djangoproject.com)
 
 <br />
-
-
 <br />
+
+---
+
+### 📌 Featured Projects
+
+- **Educational Management System**  
+  Designed and developed for Bonga University using React and TypeScript, improving administrative efficiency.  
+  [GitHub Repo](#)
+
+- **Educational Platform Management System**  
+  Built with React, TypeScript, and Next.js, enabling seamless course delivery and tracking for users.  
+  [GitHub Repo](#)
+
+---
+
+### 📄 Resume
+
+Check out my [resume](#) for more details about my professional experience and skills.
+
+---
+
+### 📫 Let's Connect!
+
+- [Portfolio](#)
+- [LinkedIn](#)
+- [Email](mailto:biruk.rcd1912@gmail.com)
+
+---
+
+⭐️ From [Biruk Nigussie](https://github.com/yourusername)
