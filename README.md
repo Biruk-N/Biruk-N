@@ -13,6 +13,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+[![Biruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biruk-N&show_icons=true&theme=radical)](https://github.com/Biruk-N)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biruk-N&layout=compact&theme=radical)](https://github.com/Biruk-N)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Biruk-N&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ### 🛠️ Languages and Tools
 
 [<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="padding-right:10px;" />](https://reactjs.org)
@@ -61,4 +71,4 @@ Check out my [resume](#) for more details about my professional experience and s
 
 ---
 
-⭐️ From [Biruk Nigussie](https://github.com/yourusername)
+⭐️ From [Biruk Nigussie](https://github.com/Biruk-N)
