@@ -65,7 +65,7 @@ Check out my [resume](#) for more details about my professional experience and s
 ### 📫 Let's Connect!
 
 - [Portfolio](#)
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/biruk-nigussie-a23340234/)
 - [Email](mailto:biruk.rcd1912@gmail.com)
 
 ---
