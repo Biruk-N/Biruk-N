@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on **educational platforms and management systems** using React, TypeScript, and Next.js.
 - 🌱 I’m currently learning **Node and Expresss** to expand my backend development skills.
-- 👯 I’m looking to collaborate on **open-source projects** and innovative tech solutions.
-- 🤔 I’m looking for help with **contributing to large-scale open-source projects**.
+- 👯 I’m looking to collaborate on **open-source projects** and innovative tech solutions. 
 - 💬 Ask me about **React, TypeScript, Next.js, or anything related to frontend development**.
 - 📫 How to reach me: **biruk.rcd1912@gmail.com** | [LinkedIn](#) | [Portfolio](#)
 - 😄 Pronouns: **He/Him**
