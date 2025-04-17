@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Biruk Nigussie
-![](https://komarev.com/ghpvc/?username=Biruk-N&color=DF6D74)
+![](https://komarev.com/ghpvc/?username=Biruk-N&color=3cff33)
 ## I'm a Software Developer with a passion for building innovative digital solutions!
 
 - 🔭 I’m currently working on **educational platforms and management systems** using React, TypeScript, and Next.js.
