@@ -27,6 +27,7 @@
 [<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="padding-right:10px;" />](https://reactjs.org)
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" />](https://www.typescriptlang.org)
 [<img align="left" alt="Next.js" width="26px" src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" style="padding-right:10px;" />](https://nextjs.org)
+[<img align="left" alt="Tailwindcss" width="26px" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" style="padding-right:10px;" />](https://tailwindcss.com)
 [<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/?size=100&id=KRA1PoZgRrca&format=png&color=000000" style="padding-right:10px;" />](https://graphql.org)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
