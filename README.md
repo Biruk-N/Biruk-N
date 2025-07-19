@@ -27,7 +27,7 @@
 [<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="padding-right:10px;" />](https://reactjs.org)
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" />](https://www.typescriptlang.org)
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="padding-right:10px;" />](https://nextjs.org)
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" style="padding-right:10px;" />](https://graphql.org)
+[<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/?size=100&id=KRA1PoZgRrca&format=png&color=000000" style="padding-right:10px;" />](https://graphql.org)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -35,7 +35,8 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org)
-[<img align="left" alt="SQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right:10px;" />](https://www.mysql.com)
+[<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" style="padding-right:10px;" />](https://www.mysql.com)
+[<img align="left" alt="PSQL" width="26px" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" style="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" style="padding-right:10px;" />](https://www.java.com)
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;" />](https://www.djangoproject.com)
 
