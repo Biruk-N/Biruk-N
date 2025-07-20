@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 [<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="padding-right:10px;" />](https://reactjs.org)
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" />](https://www.typescriptlang.org)
